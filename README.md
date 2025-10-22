@@ -4,7 +4,7 @@
 
 # Auto Submit Script
 
-This Python script automatically submits random Twitter/X usernames paired with wallet addresses to the website `https://zotachain.fun/`. The number of submissions made will correspond to the number of wallet addresses listed in the `address.txt` file.
+This Python script automatically submits random Twitter/X usernames paired with wallet addresses to the website `https://zotachain.fun/`. The number of submissions made will correspond to the number of wallet addresses listed in the `address.txt` file..
 
 ## Prerequisites
 
